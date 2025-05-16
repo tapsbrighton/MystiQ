@@ -1,6 +1,7 @@
 ##
 # Created by @taps on Wednesday, 02 April 2025.
 ##
+
 import sys
 
 from PySide6.QtCore import QProcess, QSettings
